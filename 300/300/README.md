@@ -2,4 +2,4 @@
 
 Based on "Epics are Dead, Here's What We Should Do Instead" at https://medium.freecodecamp.org/epics-are-dead-heres-what-we-should-do-instead-279bada1e644
 
-![Learning-Physics_Themes](https://user-images.githubusercontent.com/1499433/228238121-d51020db-a7fe-4994-86ac-84b49099ed00.png)
+![Learning-Design_Themes](https://user-images.githubusercontent.com/1499433/228242444-0799f2cb-debe-41a1-a066-063b07355ff0.png)
