@@ -1,5 +1,5 @@
 ---
-title: "Learning - Physics"
+title: "Learning - Design"
 ---
 
 This is a Quarto website.
