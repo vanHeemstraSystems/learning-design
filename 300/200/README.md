@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![Learning-Physics_Use-Cases](https://user-images.githubusercontent.com/1499433/228237836-f4e910b8-439d-486f-814f-1f36d12857a2.png)
+![Learning-Design_Use-Cases](https://user-images.githubusercontent.com/1499433/228242042-af4c561b-0f14-457f-83ad-6e9f1c7087e4.png)
