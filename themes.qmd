@@ -4,4 +4,4 @@ title: "Themes"
 
 About Themes
 
-See <https://vanheemstrasystems.github.io/learning-physics-themes/>
+See <https://vanheemstrasystems.github.io/learning-design-themes/>
