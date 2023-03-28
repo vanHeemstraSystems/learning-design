@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![Learning-Physics_User-Stories](https://user-images.githubusercontent.com/1499433/228238346-e4d1596d-d3d0-4e10-8a0e-df138771354f.png)
+![Learning-Design_User-Stories](https://user-images.githubusercontent.com/1499433/228242685-112aceeb-4c46-450d-a623-cb085d44ac74.png)
 
 **Planning Your Minimum Viable Product (MVP)**
 
