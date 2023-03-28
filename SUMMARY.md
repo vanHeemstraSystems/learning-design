@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Physics](README.md)
+* [Learning Design](README.md)
